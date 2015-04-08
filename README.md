@@ -1,2 +1,2 @@
-# Neolecta_genome_project
-Neolecta irregularis  genome_project
+# Neolecta genome project
+Neolecta irregularis  genome project 
