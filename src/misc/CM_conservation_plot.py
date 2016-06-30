@@ -65,8 +65,8 @@ def cal_dst(A,B):
 ##    output: average sum-of-pairs score divided by the number of sequences in each clade A and B (this provides normalization in case
 ##    the numbers of sequences are different in the 2 input clades)  
     score = 0
-    for c_p in pez:
-        for c_o in other:
+    for c_p in A:
+        for c_o B:
             score+=get_score(c_p,c_o)
     return score/len(other)
 
